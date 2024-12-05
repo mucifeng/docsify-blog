@@ -3,7 +3,7 @@
 作为一个关系型数据库，MySQL支持事务，本文介绍基于MySQL5.6
 ## 基础语法
 - 事务基本内容
-```
+``` sql
 start transaction;
 ……    #sql语句
 commit;
