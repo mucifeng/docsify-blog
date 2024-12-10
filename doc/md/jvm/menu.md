@@ -1,1 +1,1 @@
-* [垃圾收集器](./doc/md/jvm/gc.md)
+* [垃圾收集器](./doc/md/jvm/Java垃圾收集器分类及应用场景.md)
